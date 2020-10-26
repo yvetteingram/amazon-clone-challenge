@@ -14,7 +14,7 @@ import { Elements } from "@stripe/react-stripe-js";
 
 // public key - okay to see this
 const promise = loadStripe(
-"pk_test_51HddtEKqnGzrVJsKGrHbpDKiFbTlOLUHxYbPsOMSh4QtpKjLys26OHGUWbbHFVVbB4M6uCPOOywM05mxNGeZjLpf00wuhOwVVt"
+"ADD_YOU_STRIPE_KEY"
 );
 
 function App() {
